@@ -1,0 +1,1 @@
+# GeradordeQR2.0
